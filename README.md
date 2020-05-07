@@ -28,7 +28,8 @@
   - 整理技巧方法
   - 刷题 （没了
   
--写作： ISSUE/ARGUMENT 题库练习
+  
+- 写作： ISSUE/ARGUMENT 题库练习
   - ISSUE题目构思/想例子
   - 考试前半个月要练习全文打字练速度
   - ARGUMENT练习找逻辑漏洞
